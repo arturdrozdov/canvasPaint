@@ -1,0 +1,1 @@
+*{box-sizing:border-box}.paint{box-shadow:0 0 10px rgba(0,0,0,.5);margin:0 auto;width:600px}.paint-top{box-shadow:0 10px 10px -10px rgba(0,0,0,.5);display:flex;justify-content:space-between;padding:15px}#canvas{border:0;cursor:pointer;display:block;padding:0}.color,.size{background-color:#000;border:none;border-radius:50%;color:#fff}

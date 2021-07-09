@@ -1,3 +1,8 @@
+/******/ (() => { // webpackBootstrap
+/******/ 	"use strict";
+var __webpack_exports__ = {};
+
+
 const canvas = document.querySelector('#canvas');
 const size = document.querySelector('.size');
 const color = document.querySelector('.color');
@@ -86,3 +91,5 @@ canvas.addEventListener('mouseup', finishPos);
 canvas.addEventListener('mousemove', draw);
 canvas.addEventListener('mouseout', finishPos);
 paintTopInner.addEventListener('click', changeLine);
+/******/ })()
+;
